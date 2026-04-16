@@ -11,7 +11,7 @@ export interface Talaba {
 // ==========================================
 // FORM HOLATI TURI
 // ==========================================
-export interface TalabaFormMalumot 
+export interface TalabaFormMalumot {
   ism: string;
   familiya: string;
   yosh: string;        // Input string qaytaradi, keyin number ga o'giramiz
