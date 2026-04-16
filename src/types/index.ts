@@ -22,13 +22,7 @@ export interface TalabaFormMalumot {
 // ==========================================
 // FORM XATOLARI TURI
 // ==========================================
-export interface FormXatolar {
-  ism?: string;     
-  familiya?: string;
-  yosh?: string;
-  guruh?: string;
-  baho?: string;
-}
+
 
 // ==========================================
 // SORT TURI — saralash uchun
